@@ -1,12 +1,8 @@
-### Hi there 👋
-
-<!--
 ## Boas vindas ao meu perfil 😀
 
-Meu nome é Gustavo Caetano e sou completamente apaixonado por tecnologia e educação, atuando nessas áreas desde 2009 😎
+Meu nome é Juan e estou no caminho eterno de aprendizagem, ainda mais na área de tecnologia onde é o meu foco atual
 
-Atualmente ajudo a transformar a vida das pessoas na Trybe, uma Startup que está revolucionando a educação e formando pessoas para profissões do futuro e também através de vídeos no meu canal do YouTube.
-
+Atualmente estou estudando na Trybe, que é uma escola de programação. Estou muito feliz de estar onde estou hoje e espero evoluir ainda mais nessa fase!!
 <br>
 
 <!-- GITHUB STATUS -->
@@ -25,9 +21,9 @@ Atualmente ajudo a transformar a vida das pessoas na Trybe, uma Startup que est�
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)-->
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-</div>
+</div>-->
 
 <!-- REDES SOCIAIS -->
 <div align="center">
@@ -36,4 +32,3 @@ Atualmente ajudo a transformar a vida das pessoas na Trybe, uma Startup que est�
   
   
 </div>
--->
