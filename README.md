@@ -1,8 +1,8 @@
-## Boas vindas ao meu perfil 😀
+## Welcome to my profile 😀
 
-Meu nome é Juan e estou no caminho eterno de aprendizagem, ainda mais na área de tecnologia onde é o meu foco atual
+I'm in the journey to get as much knowledge as I can in web development
 
-Atualmente estou estudando na Trybe, que é uma escola de programação. Estou muito feliz de estar onde estou hoje e espero evoluir ainda mais nessa fase!!
+Right now I'm studying in Trybe, wich is a full year bootcamp where i learn how to develop projects in group and by my self. Also I have the feeling that I finally found the path that i want to follow.
 <br>
 
 <!-- GITHUB STATUS -->
